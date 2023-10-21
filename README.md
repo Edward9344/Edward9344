@@ -4,6 +4,7 @@
 
 ## QA Engineer
 
-Tools
+### Tools
+![Jira](https://img.shields.io/badge/Jira#fafafa?style=for-the-badge-&logo=Jira&logoColor=#8469ea)
 
 Write me
