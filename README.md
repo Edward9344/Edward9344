@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/Edward9344/Edward9344/blob/main/assets/giphy.gif)]
 
-About me
+## QA Engineer
 
 Tools
 
