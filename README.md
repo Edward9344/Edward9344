@@ -2,8 +2,9 @@
 <h3 align="center">Qa Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
-E-mail: [podlipaev.eduard@yandex.ru](mailto:podlipaev.eduard@yandex.ru)
-Telegram: [@Edward9344](https://t.me/Edward9344)
+
+- E-mail: [podlipaev.eduard@yandex.ru](mailto:podlipaev.eduard@yandex.ru)
+- Telegram: [@Edward9344](https://t.me/Edward9344)
 
 
 <h3 align="left">Tools:</h3>
