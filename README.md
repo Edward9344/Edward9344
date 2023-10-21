@@ -5,6 +5,6 @@
 ## QA Engineer
 
 ## Tools
-![Jira](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Jira)
+![Static Badge](https://img.shields.io/badge/:#0052CC)
 
 Write me
