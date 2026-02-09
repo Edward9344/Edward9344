@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">Qa Engineer</h3>
+<h3 align="center">Middle AQA Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 
