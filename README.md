@@ -1,7 +1,9 @@
 <h1 align="center">Всем привет, я Эд👋</h1>
 <h3 align="center">Middle AQA Engineer</h3>
 
-![Header](https://github.com/Edward9344/Edward9344/blob/main/assets/giphy.gif)
+<p align="center">
+  <img src="https://github.com/Edward9344/Edward9344/blob/main/assets/giphy.gif" />
+</p>
 
 * 🔥 3+ лет в тестировании
 * 🐍 Пишу автотесты на Python
@@ -9,7 +11,6 @@
 * 📑 Опыт и навыки в **[резюме](https://hh.ru/resume/085be72aff0754f1020039ed1f7655524b6b69)**
 * 📞 Мои контакты: **[телеграм]([https://t.me/qa_studio](https://t.me/Edward9344))**, **[почта](podlipaev.eduard@yandex.ru)**
 
-### Python QA Auto
 
 ## Тестирование API и интеграций
 <div>
